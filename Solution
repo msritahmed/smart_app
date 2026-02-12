@@ -1,0 +1,21 @@
+# Smart Bookmark App — Full Solution 
+
+# Overall Architecture
+
+Frontend
+
+Next.js (App Router)
+
+Tailwind CSS
+
+Supabase Client (Auth + DB + Realtime)
+
+Backend
+
+Supabase (Postgres + Auth + Realtime)
+
+Deployment
+
+Vercel
+
+
