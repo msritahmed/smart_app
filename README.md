@@ -52,3 +52,7 @@ Enabled RLS policies using auth.uid().
 Problem: Users logged out unexpectedly
 Solution:
 Updated Supabase keys and rotated JWT keys.
+
+
+<img width="1434" height="927" alt="Screenshot 2026-02-12 191032" src="https://github.com/user-attachments/assets/faa4c3a8-8372-4aa0-a674-5963404500b8" />
+
